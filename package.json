@@ -1,5 +1,6 @@
 {
   "name":"svgomg",
+  "version":"1.0.0",
   "devDependencies": {
     "browser-sync": "^2.9.1",
     "del": "^3.0.0",
